@@ -2,6 +2,10 @@
 
 ## Thank you for visiting!
 
+Iris Detection App
+Live: https://karma0san-iris-detection.streamlit.app/
+Repo: https://github.com/karma0san/iris_detection
+
 <!--
 **dev-karmasan/dev-karmasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
