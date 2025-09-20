@@ -4,7 +4,7 @@ Iris Detection App
 
 Live: https://karma0san-iris-detection.streamlit.app/
 
-Repo: https://github.com/karma0san/iris_detection
+Repo: https://github.com/sandeepkarmacharya/iris_detection
 
 ## Thank you for visiting!
 
