@@ -6,7 +6,7 @@ Live: https://karma0san-iris-detection.streamlit.app/
 
 Repo: https://github.com/sandeepkarmacharya/iris_detection
 
-### 📍 Location: Potsdam
+### 📍 Location: Melbourne, Australia
 
 ## Thank you for visiting!
 
