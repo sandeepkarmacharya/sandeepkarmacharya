@@ -163,44 +163,30 @@ What I care about:
 ## Contact
 
 - GitHub: [@sandeepkarmacharya](https://github.com/sandeepkarmacharya)
-- 📧
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 66" width="400" height="66">
-    <defs>
-      <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#c8c8c8"/>
-        <stop offset="28%" stop-color="#f0f0f0"/>
-        <stop offset="52%" stop-color="#b0b0b0"/>
-        <stop offset="78%" stop-color="#ddd"/>
-        <stop offset="100%" stop-color="#b8b8b8"/>
-      </linearGradient>
-      <pattern id="scratch" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
-        <rect width="8" height="8" fill="none"/>
-        <line x1="0" y1="8" x2="8" y2="0" stroke="rgba(255,255,255,.09)" stroke-width="1.5"/>
-      </pattern>
-    </defs>
-    <style>
-      .card { transition:all .45s cubic-bezier(.4,0,.2,1); transform-origin:200px 26px; }
-      .result { opacity:0; transition:all .45s cubic-bezier(.4,0,.2,1) .12s; transform:translateY(8px); }
-      #r:target~.card { opacity:0; transform:scale(.88) translateY(-7px); pointer-events:none; }
-      #r:target~.result { opacity:1; transform:translateY(0); }
-    </style>
-    <rect id="r" width="0" height="0" fill="none"/>
-    <g class="card">
-      <a href="#r">
-        <rect x="0" y="0" width="400" height="52" rx="9" fill="url(#metal)" stroke="#999" stroke-width="1"/>
-        <rect x="0" y="0" width="400" height="52" rx="9" fill="url(#scratch)"/>
-        <rect x="1.5" y="1.5" width="397" height="49" rx="7.5" fill="none" stroke="rgba(255,255,255,.35)" stroke-width="1.5"/>
-        <text x="35" y="33" font-size="17">📧</text>
-        <text x="63" y="34" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-weight="900" font-size="13" fill="#555" letter-spacing="2.5">SCRATCH HERE</text>
-        <text x="295" y="34" font-family="monospace" font-weight="bold" font-size="13" fill="#777" opacity=".2" letter-spacing="4">▓▓▓▓▓▓▓▓</text>
-      </a>
-    </g>
-    <g class="result">
-      <rect x="0" y="0" width="400" height="48" rx="7" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-      <rect x="0" y="0" width="5" height="48" rx="2" fill="#2da44e"/>
-      <text x="22" y="31" font-family="monospace" font-weight="600" font-size="16" fill="#1f2328">me@sand33p.dev</text>
-    </g>
-  </svg>
+- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;">
+    <summary style="display:inline-flex;align-items:center;gap:12px;padding:10px 24px 10px 18px;
+      background:linear-gradient(135deg,#c8c8c8,#f0f0f0 30%,#b0b0b0 55%,#ddd 80%,#b8b8b8);
+      border-radius:10px;
+      font-weight:800;
+      font-size:14px;
+      letter-spacing:1px;
+      color:#555;
+      box-shadow:0 4px 12px rgba(0,0,0,0.15),inset 0 1px 3px rgba(255,255,255,0.7);
+      border:1px solid #8a8a8a;
+      list-style:none;
+      user-select:none;
+      background-image:repeating-linear-gradient(45deg,transparent,transparent 5px,rgba(255,255,255,0.1) 5px,rgba(255,255,255,0.1) 6px);">
+      <span style="font-size:18px;">📧</span>
+      <span style="letter-spacing:2px;">SCRATCH HERE</span>
+      <span style="font-family:monospace;font-size:15px;letter-spacing:5px;opacity:0.15;color:#666;">▓▓▓▓▓▓▓▓▓</span>
+    </summary>
+    <div style="margin-top:12px;padding:10px 20px;background:#f6f8fa;border-radius:8px;
+      border:1px solid #e1e4e8;border-left:5px solid #2da44e;
+      font-family:SFMono-Regular,Consolas,'Liberation Mono',monospace;font-weight:600;font-size:16px;color:#1f2328;
+      box-shadow:0 2px 8px rgba(0,0,0,0.06);word-break:break-all;">
+      📬&#8202;→&#8202;me<!-- -->@<!-- -->sand33p<!-- -->.<!-- -->dev
+    </div>
+  </details>
 - Location: Potsdam
 
 <div align="center">
