@@ -163,7 +163,41 @@ What I care about:
 ## Contact
 
 - GitHub: [@sandeepkarmacharya](https://github.com/sandeepkarmacharya)
-- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;"><summary style="display:flex;align-items:center;gap:8px;padding:3px 16px 3px 12px;background:linear-gradient(135deg,#e8e8e8,#b8b8b8 50%,#a0a0a0);border-radius:6px;color:#444;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,0.1);list-style:none;border:1px solid rgba(255,255,255,0.3);"><span>📧</span><span style="font-size:18px;letter-spacing:2px;opacity:0.4;font-family:monospace;">▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮</span></summary><code style="display:inline-block;margin-top:6px;padding:4px 14px;background:#f6f8fa;border-radius:4px;border-left:4px solid #2da44e;font-family:monospace;font-weight:600;font-size:15px;color:#1f2328;box-shadow:0 1px 3px rgba(0,0,0,0.08);">me<!-- -->@<!-- -->sand33p<!-- -->.<!-- -->dev</code></details>
+- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;">
+    <summary style="display:inline-flex;align-items:center;gap:10px;padding:8px 22px 8px 16px;
+      background:
+        linear-gradient(135deg,#c8c8c8 0%,#e8e8e8 25%,#b0b0b0 50%,#d8d8d8 75%,#b8b8b8 100%);
+      border-radius:8px;
+      font-weight:700;
+      font-size:13px;
+      box-shadow:
+        0 3px 12px rgba(0,0,0,0.15),
+        inset 0 1px 2px rgba(255,255,255,0.6),
+        inset 0 -1px 1px rgba(0,0,0,0.08);
+      border:1px solid #8a8a8a;
+      list-style:none;
+      user-select:none;
+      background-image:
+        repeating-linear-gradient(
+          45deg,
+          transparent 0px,
+          transparent 5px,
+          rgba(255,255,255,0.15) 5px,
+          rgba(255,255,255,0.15) 6px
+        );">
+      <span style="font-size:16px;">📧</span>
+      <span style="font-weight:800;letter-spacing:2px;color:#555;"
+        >SCRATCH ↓</span>
+      <span style="font-size:13px;letter-spacing:3px;opacity:0.25;font-family:monospace;"
+        >▓▓▓▓▓▓▓▓▓▓</span>
+    </summary>
+    <div style="margin-top:10px;padding:7px 16px;background:#f6f8fa;border-radius:6px;
+      border:1px solid #e1e4e8;border-left:4px solid #2da44e;
+      font-family:monospace;font-weight:600;font-size:15px;color:#1f2328;
+      box-shadow:0 2px 6px rgba(0,0,0,0.06);white-space:nowrap;">
+      <span style="font-size:12px;opacity:0.5;">→ </span>me<!-- -->@<!-- -->sand33p<!-- -->.<!-- -->dev
+    </div>
+  </details>
 - Location: Potsdam
 
 <div align="center">
