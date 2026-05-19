@@ -113,8 +113,6 @@ What I care about:
 | Computer vision | Iris Detection App | Image analysis, Streamlit deployment | [Live](https://karma0san-iris-detection.streamlit.app/) · [Repo](https://github.com/sandeepkarmacharya/iris_detection) |
 | Data science | Public Health Dashboard | Notebook analytics and health-data storytelling | [Repo](https://github.com/sandeepkarmacharya/public_health_dashboard) |
 | Data science | Monkeypox Analysis | Exploratory public-health analysis | [Repo](https://github.com/sandeepkarmacharya/monkeypox-analysis) |
-| Data engineering | Data Engineering | Python/data-engineering practice work | [Repo](https://github.com/sandeepkarmacharya/data-engineering) |
-| Web basics | Weather App | JavaScript fundamentals and API-style UI work | [Repo](https://github.com/sandeepkarmacharya/weatherApp) |
 
 ---
 
