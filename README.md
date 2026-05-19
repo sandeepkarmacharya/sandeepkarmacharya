@@ -163,7 +163,7 @@ What I care about:
 ## Contact
 
 - GitHub: [@sandeepkarmacharya](https://github.com/sandeepkarmacharya)
-- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;"><summary style="display:inline-flex;align-items:center;gap:6px;padding:2px 14px 2px 10px;background:linear-gradient(145deg,#e0e0e0,#a0a0a0);border-radius:5px;font-weight:bold;color:#444;box-shadow:0 1px 4px rgba(0,0,0,0.12);list-style:none;"><span>📧</span><span style="letter-spacing:1px;font-family:monospace;font-size:13px;opacity:0.7;">contact hidden</span></summary><code style="display:inline-block;margin-top:5px;padding:3px 12px;background:#f0f2f4;border-radius:4px;font-family:monospace;font-weight:600;font-size:14px;border-left:3px solid #2da44e;">me<!-- protect -->@<!-- protect -->sand33p<!-- protect -->.<!-- protect -->dev</code></details>
+- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;"><summary style="display:flex;align-items:center;gap:8px;padding:3px 16px 3px 12px;background:linear-gradient(135deg,#e8e8e8,#b8b8b8 50%,#a0a0a0);border-radius:6px;color:#444;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,0.1);list-style:none;border:1px solid rgba(255,255,255,0.3);"><span>📧</span><span style="font-size:18px;letter-spacing:2px;opacity:0.4;font-family:monospace;">▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮</span></summary><code style="display:inline-block;margin-top:6px;padding:4px 14px;background:#f6f8fa;border-radius:4px;border-left:4px solid #2da44e;font-family:monospace;font-weight:600;font-size:15px;color:#1f2328;box-shadow:0 1px 3px rgba(0,0,0,0.08);">me<!-- -->@<!-- -->sand33p<!-- -->.<!-- -->dev</code></details>
 - Location: Potsdam
 
 <div align="center">
