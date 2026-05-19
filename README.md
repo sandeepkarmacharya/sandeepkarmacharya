@@ -163,53 +163,8 @@ What I care about:
 ## Contact
 
 - GitHub: [@sandeepkarmacharya](https://github.com/sandeepkarmacharya)
-- 📧 <span class="scratch-card"><span class="scratch-email"></span><span class="scratch-layer">🎟️ Scratch to reveal</span></span>
+- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;"><summary style="display:inline-flex;align-items:center;gap:6px;padding:2px 14px 2px 10px;background:linear-gradient(145deg,#e0e0e0,#a0a0a0);border-radius:5px;font-weight:bold;color:#444;box-shadow:0 1px 4px rgba(0,0,0,0.12);list-style:none;"><span>📧</span><span style="letter-spacing:1px;font-family:monospace;font-size:13px;opacity:0.7;">contact hidden</span></summary><code style="display:inline-block;margin-top:5px;padding:3px 12px;background:#f0f2f4;border-radius:4px;font-family:monospace;font-weight:600;font-size:14px;border-left:3px solid #2da44e;">me<!-- protect -->@<!-- protect -->sand33p<!-- protect -->.<!-- protect -->dev</code></details>
 - Location: Potsdam
-
-<style>
-.scratch-card {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
-.scratch-email {
-  font-family: monospace;
-  font-weight: 600;
-  font-size: 15px;
-}
-.scratch-email::after {
-  content: "me" "@" "sand33p" "." "dev";
-  user-select: all;
-  -webkit-user-select: all;
-}
-.scratch-layer {
-  position: absolute;
-  top: -3px;
-  left: -4px;
-  right: -4px;
-  bottom: -3px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(145deg, #e0e0e0 0%, #b0b0b0 40%, #909090 60%, #b8b8b8 100%);
-  background-size: 200% 100%;
-  color: #444;
-  font-weight: bold;
-  font-size: 14px;
-  letter-spacing: 1px;
-  border-radius: 5px;
-  z-index: 2;
-  transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.4s ease;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.13);
-  user-select: none;
-}
-.scratch-card:hover .scratch-layer,
-.scratch-card:active .scratch-layer {
-  transform: scale(0.7) translateX(120%) rotate(-8deg);
-  opacity: 0;
-  pointer-events: none;
-}
-</style>
 
 <div align="center">
 
