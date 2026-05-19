@@ -163,7 +163,21 @@ What I care about:
 ## Contact
 
 - GitHub: [@sandeepkarmacharya](https://github.com/sandeepkarmacharya)
+- 📧 <span class="h-email"><span class="h-email-lbl">Email: </span><span class="h-email-addr"></span></span>
 - Location: Potsdam
+
+<style>
+.h-email { cursor: pointer; }
+.h-email-addr { opacity: 0; transition: opacity 0.25s ease; }
+.h-email:hover .h-email-addr,
+.h-email:active .h-email-addr,
+.h-email:focus-within .h-email-addr { opacity: 1; }
+.h-email-addr::after {
+  content: "me" "@" "sand33p" "." "dev";
+  user-select: all;
+  -webkit-user-select: all;
+}
+</style>
 
 <div align="center">
 
