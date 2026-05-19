@@ -163,30 +163,7 @@ What I care about:
 ## Contact
 
 - GitHub: [@sandeepkarmacharya](https://github.com/sandeepkarmacharya)
-- 📧 <details style="display:inline-block;vertical-align:middle;cursor:pointer;">
-    <summary style="display:inline-flex;align-items:center;gap:12px;padding:10px 24px 10px 18px;
-      background:linear-gradient(135deg,#c8c8c8,#f0f0f0 30%,#b0b0b0 55%,#ddd 80%,#b8b8b8);
-      border-radius:10px;
-      font-weight:800;
-      font-size:14px;
-      letter-spacing:1px;
-      color:#555;
-      box-shadow:0 4px 12px rgba(0,0,0,0.15),inset 0 1px 3px rgba(255,255,255,0.7);
-      border:1px solid #8a8a8a;
-      list-style:none;
-      user-select:none;
-      background-image:repeating-linear-gradient(45deg,transparent,transparent 5px,rgba(255,255,255,0.1) 5px,rgba(255,255,255,0.1) 6px);">
-      <span style="font-size:18px;">📧</span>
-      <span style="letter-spacing:2px;">SCRATCH HERE</span>
-      <span style="font-family:monospace;font-size:15px;letter-spacing:5px;opacity:0.15;color:#666;">▓▓▓▓▓▓▓▓▓</span>
-    </summary>
-    <div style="margin-top:12px;padding:10px 20px;background:#f6f8fa;border-radius:8px;
-      border:1px solid #e1e4e8;border-left:5px solid #2da44e;
-      font-family:SFMono-Regular,Consolas,'Liberation Mono',monospace;font-weight:600;font-size:16px;color:#1f2328;
-      box-shadow:0 2px 8px rgba(0,0,0,0.06);word-break:break-all;">
-      📬&#8202;→&#8202;me<!-- -->@<!-- -->sand33p<!-- -->.<!-- -->dev
-    </div>
-  </details>
+
 - Location: Potsdam
 
 <div align="center">
