@@ -72,16 +72,16 @@ What I care about:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Iris Detection App</h3>
-      <p><strong>Computer vision demo deployed with Streamlit.</strong></p>
-      <p>A practical image-analysis application focused on iris detection, built as an accessible web app.</p>
+      <h3>Iris Species Classifier</h3>
+      <p><strong>ML classification demo deployed with Streamlit.</strong></p>
+      <p>A classic machine-learning demo that predicts Iris flower species (setosa, versicolor, virginica) from sepal and petal measurements, featuring interactive visualizations and model comparison.</p>
       <p>
         <a href="https://karma0san-iris-detection.streamlit.app/"><strong>Live app →</strong></a><br />
         <a href="https://github.com/sandeepkarmacharya/iris_detection"><strong>View repository →</strong></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
     </td>
@@ -110,7 +110,7 @@ What I care about:
 |---|---|---|---|
 | AI agents | Agent Memory Framework | Agent context management, retrieval, lifecycle automation | [Repo](https://github.com/sandeepkarmacharya/agent-memory-framework) |
 | Desktop apps | Video Frame Extractor | Python GUI, ffmpeg automation, tests, CI | [Repo](https://github.com/sandeepkarmacharya/video-frame-extractor) |
-| Computer vision | Iris Detection App | Image analysis, Streamlit deployment | [Live](https://karma0san-iris-detection.streamlit.app/) · [Repo](https://github.com/sandeepkarmacharya/iris_detection) |
+| Machine Learning | Iris Species Classifier | ML classification (scikit-learn), Streamlit deployment | [Live](https://karma0san-iris-detection.streamlit.app/) · [Repo](https://github.com/sandeepkarmacharya/iris_detection) |
 | Data science | Public Health Dashboard | Notebook analytics and health-data storytelling | [Repo](https://github.com/sandeepkarmacharya/public_health_dashboard) |
 | Data science | Monkeypox Analysis | Exploratory public-health analysis | [Repo](https://github.com/sandeepkarmacharya/monkeypox-analysis) |
 
@@ -134,6 +134,7 @@ What I care about:
 - Python application development
 - AI-agent workflows and context engineering
 - Data science notebooks and dashboards
+- ML classification and scikit-learn workflows
 - Computer vision prototypes
 - Automation and developer tooling
 - GitHub Actions, testing, and project documentation
