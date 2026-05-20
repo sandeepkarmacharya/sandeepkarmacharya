@@ -87,11 +87,11 @@ What I care about:
     </td>
     <td width="50%" valign="top">
       <h3>Public Health Analytics</h3>
-      <p><strong>Notebook-based analysis and dashboard work.</strong></p>
-      <p>Exploratory analytics projects covering public-health dashboards and monkeypox-related data analysis.</p>
+      <p><strong>Statistical analysis, dashboarding, and ML workflows for health-related datasets.</strong></p>
+      <p>Portfolio-ready public-health projects covering ANOVA-based glucose outcome analysis, Tableau dashboarding, and monkeypox classification using symptom-level features.</p>
       <p>
-        <a href="https://github.com/sandeepkarmacharya/public_health_dashboard"><strong>Public health dashboard →</strong></a><br />
-        <a href="https://github.com/sandeepkarmacharya/monkeypox-analysis"><strong>Monkeypox analysis →</strong></a>
+        <a href="https://github.com/sandeepkarmacharya/public_health_dashboard"><strong>Glucose ANOVA dashboard →</strong></a><br />
+        <a href="https://github.com/sandeepkarmacharya/monkeypox-analysis"><strong>Monkeypox ML analysis →</strong></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
@@ -111,8 +111,8 @@ What I care about:
 | AI agents | Agent Memory Framework | Agent context management, retrieval, lifecycle automation | [Repo](https://github.com/sandeepkarmacharya/agent-memory-framework) |
 | Desktop apps | Video Frame Extractor | Python GUI, ffmpeg automation, tests, CI | [Repo](https://github.com/sandeepkarmacharya/video-frame-extractor) |
 | Machine Learning | Iris Species Classifier | ML classification (scikit-learn), Streamlit deployment | [Live](https://karma0san-iris-detection.streamlit.app/) · [Repo](https://github.com/sandeepkarmacharya/iris_detection) |
-| Data science | Public Health Dashboard | Notebook analytics and health-data storytelling | [Repo](https://github.com/sandeepkarmacharya/public_health_dashboard) |
-| Data science | Monkeypox Analysis | Exploratory public-health analysis | [Repo](https://github.com/sandeepkarmacharya/monkeypox-analysis) |
+| Data science | Public Health Dashboard | Glucose outcome analysis with ANOVA, JSON exports, and Tableau-backed dashboarding | [Repo](https://github.com/sandeepkarmacharya/public_health_dashboard) |
+| Data science | Monkeypox Analysis | Symptom-level classification workflow with model comparison and health-analytics limitations | [Repo](https://github.com/sandeepkarmacharya/monkeypox-analysis) |
 
 ---
 
